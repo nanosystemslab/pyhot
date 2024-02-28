@@ -4,6 +4,7 @@
 [![Build status](https://img.shields.io/github/actions/workflow/status/nanosystemslab/pyhot/main.yml?branch=main)](https://github.com/nanosystemslab/pyhot/actions/workflows/main.yml?query=branch%3Amain)
 [![Commit activity](https://img.shields.io/github/commit-activity/m/nanosystemslab/pyhot)](https://img.shields.io/github/commit-activity/m/nanosystemslab/pyhot)
 [![License](https://img.shields.io/github/license/nanosystemslab/pyhot)](https://img.shields.io/github/license/nanosystemslab/pyhot)
+[![DOI](https://zenodo.org/badge/732227593.svg)](https://zenodo.org/doi/10.5281/zenodo.10719950)
 
 This Python library provides a comprehensive interface for controlling an OMEGA PID temperature controller via Modbus RTU. It supports setting PID parameters, thermocouple types, operational modes, and more. Ideal for precise temperature regulation in industrial and laboratory settings, it simplifies integration with Python projects, enhancing automation and monitoring capabilities.
 
@@ -42,8 +43,6 @@ To enable the code coverage reports, see [here](https://fpgmaas.github.io/cookie
 - Create a [new release](https://github.com/nanosystemslab/pyhot/releases/new) on Github.
 - Create a new tag in the form `*.*.*`.
 
-For more details, see [here](https://fpgmaas.github.io/cookiecutter-poetry/features/cicd/#how-to-trigger-a-release).
-
 ## Citation
 
 If you use this project in your research, please cite it using the following BibTeX entry:
@@ -61,6 +60,6 @@ If you use this project in your research, please cite it using the following Bib
 }
 ```
 
----
+## For more details, see [here](https://fpgmaas.github.io/cookiecutter-poetry/features/cicd/#how-to-trigger-a-release).
 
 Repository initiated with [fpgmaas/cookiecutter-poetry](https://github.com/fpgmaas/cookiecutter-poetry).
