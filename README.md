@@ -56,8 +56,8 @@ If you use this project in your research, please cite it using the following Bib
   year         = 2024,
   publisher    = {Zenodo},
   version      = {v0.0.1},
-  doi          = {},
-  url          = {}
+  doi          = {10.5281/zenodo.10719950},
+  url          = {https://zenodo.org/records/10719950}
 }
 ```
 
