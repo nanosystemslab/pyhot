@@ -1,6 +1,6 @@
 from typing import Union
 
-import minimalmodbus  # type: ignore[import]
+import minimalmodbus
 
 
 class Heater:
