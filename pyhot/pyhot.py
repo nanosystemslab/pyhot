@@ -1,5 +1,7 @@
 from typing import Union
+
 import minimalmodbus  # type: ignore[import]
+
 
 class Heater:
     def __init__(self, port: str = "", addr: Union[int, None] = None):
@@ -131,6 +133,7 @@ class Heater:
         filter_knob = int(filter_knob)
         self.ser.write_register(655, filter_knob, 0, 16, False)  # Filter
         return
+
 
 # Example usage:
 # c1 = Heater(port="/dev/ttyACM4", addr=1)
