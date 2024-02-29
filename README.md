@@ -49,14 +49,14 @@ If you use this project in your research, please cite it using the following Bib
 
 ```bibtex
 @software{pyhot,
-  author       = {Nakamura, Matthew},
-  title        = {pyhot: Library to control Omega PID Tempreture Controller},
+  author       = {Nakamura, Matthew and Renzo Claudio, Josh},
+  title        = {nanosystemslab/pyhot: Initial Release of Library},
   month        = feb,
   year         = 2024,
   publisher    = {Zenodo},
   version      = {v0.0.1},
-  doi          = {10.5281/zenodo.10719950},
-  url          = {https://zenodo.org/records/10719950}
+  doi          = {10.5281/zenodo.10719952},
+  url          = {https://doi.org/10.5281/zenodo.10719952}
 }
 ```
 
